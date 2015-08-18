@@ -10,7 +10,7 @@ designMotif = {
 	symmetryWeighting : 1.0,
 	forceUniqueDraws : true,
 	single : false,
-	drawGrid : true,
+	drawGrid : false,
 	minStroke : 2,
 	maxStroke : 4,
 	useCurves : true,
